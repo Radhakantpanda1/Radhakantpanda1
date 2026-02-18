@@ -28,10 +28,6 @@ Deep learning model for detecting stages of diabetic retinopathy using retinal i
 
 Computer vision project for detecting high-value assets from satellite imagery.
 
-### 🌾 Agroverse (Startup Idea)
-
-AI-driven system to predict agricultural trends and help prevent overproduction using data insights.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -40,14 +36,11 @@ AI-driven system to predict agricultural trends and help prevent overproduction 
 
 * Python
 * C++
-* JavaScript / TypeScript
 
 **AI / ML**
 
 * PyTorch
-* TensorFlow (basic)
 * Scikit-learn
-* OpenCV
 
 **Tools & Platforms**
 
@@ -66,13 +59,6 @@ AI-driven system to predict agricultural trends and help prevent overproduction 
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
-
----
 
 ## 🎯 2026 Goals
 
@@ -80,14 +66,6 @@ AI-driven system to predict agricultural trends and help prevent overproduction 
 * Contribute to open-source AI projects
 * Work on research-level implementations
 * Prepare for AI/ML roles and startup development
-
----
-
-## 🤝 Connect With Me
-
-* LinkedIn: (Add your link)
-* Portfolio: (If you have one)
-* Email: (Optional)
 
 ---
 
